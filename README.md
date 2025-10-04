@@ -15,3 +15,6 @@ Groq API based chatbot.In this project I have implemented Langgraph based AI cha
 1) Langgraph Documentation
 2) CampusX (Youtube)
 3) Google/ChatGPT information based.
+# Output
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 133956" src="https://github.com/user-attachments/assets/68488256-ed51-4a84-972a-b3703de1122b" />
+<img width="1919" height="1074" alt="Screenshot 2025-10-04 134112" src="https://github.com/user-attachments/assets/5e047285-9942-4659-91b4-bb80f172afdf" />
