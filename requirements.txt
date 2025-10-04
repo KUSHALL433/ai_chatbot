@@ -1,10 +1,10 @@
 python-dotenv
 streamlit
 langchain
-langgraph
+langgraph[sqlite]
 langchain-core
 langchain-groq
-sqlite-sync
+
 
 
 
