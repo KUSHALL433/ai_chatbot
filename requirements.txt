@@ -1,15 +1,9 @@
-# Core dependencies
 python-dotenv
 streamlit
-
-# LangChain & LangGraph
 langchain
 langgraph
 langchain-core
 langchain-groq
 
-# Database
-sqlite3
 
-# Utils
 
