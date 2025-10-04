@@ -9,7 +9,7 @@ langchain-core
 langchain-groq
 
 # Database
-sqlite3-binary
+sqlite3
 
 # Utils
-uuid
+
