@@ -3,7 +3,7 @@ from typing import TypedDict,Annotated
 # from langchain_huggingface import ChatHuggingFace,HuggingFaceEndpoint
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
-from langgraph.checkpoint.sqlite.aio import SqliteSaver
+from langgraph.checkpoint.sqlite import SqliteSaver
 from langgraph.graph.message import add_messages
 from langchain_core.messages import BaseMessage,HumanMessage
 import sqlite3
@@ -44,5 +44,6 @@ def retrieve_all_threads():
         all_threads.add(checkpoint.config['configurable']['thread_id'])
         
     return list(all_threads)
+
 
 
