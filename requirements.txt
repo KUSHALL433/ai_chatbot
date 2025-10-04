@@ -4,6 +4,7 @@ langchain
 langgraph
 langchain-core
 langchain-groq
+sqlite-sync
 
 
 
